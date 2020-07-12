@@ -1,2 +1,2 @@
 # ABC-C
-- Atcoder Beginner's ContestのC問題をひたすらC言語で解いていく
+- Atcoder Beginner's Contestの問題を解いていく
